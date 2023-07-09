@@ -1,0 +1,84 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9ac885348ee41aa488c6bb448121fdf2
+# Starting compiling UnityEngine.UI.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-862a55684b5820743b6ae3097b399500
+# Starting compiling UnityEditor.TestRunner.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0e9eee7d1740380458ce8d897e15ee9a
+# Starting compiling UnityEditor.UI.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8e3f5c7c4b02a8a4cb26cc1012510cfe
+# Starting compiling Purchasing.Common.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-61a275a0ae8d6874caf9e0582c27f666
+# Starting compiling Unity.VSCode.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-da4e42b6e4e72e244b99f879a5976fe6
+# Starting compiling Unity.2D.Tilemap.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f819ce51f5e8630448b80c3ec3bcf497
+# Starting compiling UnityEngine.Purchasing.WinRTCore.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7f2959ed105c0984faf94ad36b0311a9
+# Starting compiling Unity.VisualStudio.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-38e904d5491866e46a0c4f1748ea6254
+# Starting compiling Unity.Timeline.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c08991522ea68ce46b5824b01e296dbd
+# Starting compiling Unity.TextMeshPro.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8632ee689dd69144f84a2dd95605596b
+# Starting compiling UnityEngine.Advertisements.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d30fa51af8e2dee48a288dc683bddc0e
+# Starting compiling Unity.2D.Sprite.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a0d9f2f9bd646a442a0e43ebab953961
+# Starting compiling Unity.PlasticSCM.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4917693e18cff43409ba4a3c12042d8c
+# Starting compiling com.unity.multiplayer-weaver.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-13c49c7f3c813e34fb56623e14cc728d
+# Starting compiling Unity.Rider.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-717168585751e9f4dbbea50add682168
+# Starting compiling UnityEngine.Purchasing.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6b35b254b57651649bf7274c2ae5817b
+# Starting compiling Analytics.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e55ec25243632cc4c87fab06548a8b6e
+# Starting compiling UnityEngine.SpatialTracking.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a2a5d27f97d2d2b4abe8c09da216af37
+# Starting compiling UnityEngine.Purchasing.WinRTStub.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c68dd3a64e926ab469494d9f6688c7e2
+# Starting compiling UnityEngine.Purchasing.AppleCore.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8e340d9858b10114698c29421ef932f6
+# Starting compiling Unity.Analytics.DataPrivacy.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1f9001cc5a2356e428da829169fad438
+# Starting compiling com.unity.multiplayer-hlapi.Runtime.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-442d74ee85103234394149e59182235a
+# Starting compiling Unity.Services.Core.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-bdb64e729dd8056488cf21d4ddafec6b
+# Starting compiling UnityEngine.Purchasing.SecurityCore.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cd8119b3d2e96cf43aa24be438d7f096
+# Starting compiling Unity.Timeline.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d4c4a5553d557f44ca90daf19f204b97
+# Starting compiling UnityEngine.Monetization.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c06648b14cca429488e7438830bee1e6
+# Starting compiling UnityEngine.Purchasing.AppleMacosStub.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ad32c19328c0cd94da31643a8b439a09
+# Starting compiling UnityEngine.Purchasing.AppleStub.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7478b545bfd8f914aa10b9f96f720c2f
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d2df376f735d9c74e8969da0debd7741
+# Starting compiling UnityEditor.SpatialTracking.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-35a709251dd84f543be7aaa2030129a2
+# Starting compiling Unity.TextMeshPro.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-285fa428108b27d43896576dd21d0aa7
+# Starting compiling UnityEngine.Advertisements.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-399a2b65c2513fe4799e6fd6c647e3d6
+# Starting compiling UnityEngine.Purchasing.SecurityStub.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b2750f8c74f5eb64ba3b6789792ab9a8
+# Starting compiling Unity.CollabProxy.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-67a773b429d0b3f45bafc129076518ea
+# Starting compiling UnityEngine.Advertisements.DevX.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-90658b677dff09645bfff7fe5e87bd41
+# Starting compiling com.unity.multiplayer-hlapi.Editor.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f767ad8abf5215948950fd52e8bc9094
+# Starting compiling UnityEditor.XR.LegacyInputHelpers.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6c3122f112162cd4eb3bbcc467c091e6
+# Starting compiling UnityEngine.Purchasing.Stores.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4b2f781f98288664e908d258f0476ee3
+# Starting compiling UnityEngine.Purchasing.Codeless.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-459616331819d1a4a9a2b1989cf8e3c0
+# Starting compiling UnityEditor.Purchasing.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9aa56bdd44024904caf426f466e5642b
+# Starting compiling Assembly-CSharp.dll
+D:\Unity\Hub\Editor\2020.3.33f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-10ba027e1bb853b4e9bdf5bd1eac8269
